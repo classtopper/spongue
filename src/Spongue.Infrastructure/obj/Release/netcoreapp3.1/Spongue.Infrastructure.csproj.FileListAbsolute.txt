@@ -1,0 +1,9 @@
+D:\Arvind\Gen\GIT\src\Spongue.Infrastructure\bin\Release\netcoreapp3.1\Spongue.Infrastructure.deps.json
+D:\Arvind\Gen\GIT\src\Spongue.Infrastructure\bin\Release\netcoreapp3.1\Spongue.Infrastructure.dll
+D:\Arvind\Gen\GIT\src\Spongue.Infrastructure\bin\Release\netcoreapp3.1\Spongue.Infrastructure.pdb
+D:\Arvind\Gen\GIT\src\Spongue.Infrastructure\obj\Release\netcoreapp3.1\Spongue.Infrastructure.csprojAssemblyReference.cache
+D:\Arvind\Gen\GIT\src\Spongue.Infrastructure\obj\Release\netcoreapp3.1\Spongue.Infrastructure.AssemblyInfoInputs.cache
+D:\Arvind\Gen\GIT\src\Spongue.Infrastructure\obj\Release\netcoreapp3.1\Spongue.Infrastructure.AssemblyInfo.cs
+D:\Arvind\Gen\GIT\src\Spongue.Infrastructure\obj\Release\netcoreapp3.1\Spongue.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Arvind\Gen\GIT\src\Spongue.Infrastructure\obj\Release\netcoreapp3.1\Spongue.Infrastructure.dll
+D:\Arvind\Gen\GIT\src\Spongue.Infrastructure\obj\Release\netcoreapp3.1\Spongue.Infrastructure.pdb
