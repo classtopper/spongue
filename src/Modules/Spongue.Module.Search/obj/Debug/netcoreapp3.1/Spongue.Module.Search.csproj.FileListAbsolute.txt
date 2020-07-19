@@ -80,3 +80,4 @@ D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Search\obj\Debug\netcoreapp3.1\stat
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Search\obj\Debug\netcoreapp3.1\staticwebassets\Spongue.Module.Search.StaticWebAssets.xml
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Search\obj\Debug\netcoreapp3.1\Spongue.Module.Search.dll
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Search\obj\Debug\netcoreapp3.1\Spongue.Module.Search.pdb
+D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Search\obj\Debug\netcoreapp3.1\Spongue.Module.Search.csprojAssemblyReference.cache

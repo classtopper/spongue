@@ -39,3 +39,4 @@ D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Search\obj\Release\netcoreapp3.1\st
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Search\obj\Release\netcoreapp3.1\staticwebassets\Spongue.Module.Search.StaticWebAssets.xml
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Search\obj\Release\netcoreapp3.1\Spongue.Module.Search.dll
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Search\obj\Release\netcoreapp3.1\Spongue.Module.Search.pdb
+D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Search\obj\Release\netcoreapp3.1\Spongue.Module.Search.csprojAssemblyReference.cache

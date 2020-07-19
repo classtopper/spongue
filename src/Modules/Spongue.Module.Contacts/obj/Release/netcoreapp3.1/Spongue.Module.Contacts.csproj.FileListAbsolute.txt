@@ -31,3 +31,4 @@ D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Contacts\obj\Release\netcoreapp3.1\
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Contacts\obj\Release\netcoreapp3.1\staticwebassets\Spongue.Module.Contacts.StaticWebAssets.xml
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Contacts\obj\Release\netcoreapp3.1\Spongue.Module.Contacts.dll
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Contacts\obj\Release\netcoreapp3.1\Spongue.Module.Contacts.pdb
+D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Contacts\obj\Release\netcoreapp3.1\Spongue.Module.Contacts.csprojAssemblyReference.cache

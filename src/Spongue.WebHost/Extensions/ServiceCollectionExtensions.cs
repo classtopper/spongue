@@ -180,7 +180,7 @@ namespace Spongue.WebHost.Extensions
                  .AddInMemoryClients(IdentityServerConfig.Clients)
                  .AddAspNetIdentity<User>()
                  .AddProfileService<SpongueProfileService>()
-                 .AddDeveloperSigningCredential(); // not recommended for production - you need to store your key material somewhere secure
+                 .AddDeveloperSigningCredential(persistKey: false); // not recommended for production - you need to store your key material somewhere secure
 
             services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
                 .AddCookie()
