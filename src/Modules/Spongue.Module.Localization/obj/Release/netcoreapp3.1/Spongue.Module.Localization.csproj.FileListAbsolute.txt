@@ -18,3 +18,4 @@ D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Localization\obj\Release\netcoreapp
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Localization\obj\Release\netcoreapp3.1\staticwebassets\Spongue.Module.Localization.StaticWebAssets.xml
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Localization\obj\Release\netcoreapp3.1\Spongue.Module.Localization.dll
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Localization\obj\Release\netcoreapp3.1\Spongue.Module.Localization.pdb
+D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Localization\obj\Release\netcoreapp3.1\Spongue.Module.Localization.csprojAssemblyReference.cache

@@ -63,9 +63,9 @@ D:\Arvind\Gen\Spongue\src\Modules\Spongue.Module.PaymentCoD\bin\Debug\netcoreapp
 D:\Arvind\Gen\Spongue\src\Modules\Spongue.Module.PaymentCoD\bin\Debug\netcoreapp3.1\Spongue.Module.Shipping.StaticWebAssets.xml
 D:\Arvind\Gen\Spongue\src\Modules\Spongue.Module.PaymentCoD\bin\Debug\netcoreapp3.1\Spongue.Module.ShippingPrices.StaticWebAssets.xml
 D:\Arvind\Gen\Spongue\src\Modules\Spongue.Module.PaymentCoD\bin\Debug\netcoreapp3.1\Spongue.Module.ShoppingCart.StaticWebAssets.xml
-D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.PaymentCoD\bin\Debug\netcoreapp3.1\module.json
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.PaymentCoD\bin\Debug\netcoreapp3.1\Spongue.Module.Core.Views.dll
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.PaymentCoD\bin\Debug\netcoreapp3.1\Spongue.Module.Core.Views.pdb
+D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.PaymentCoD\bin\Debug\netcoreapp3.1\module.json
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.PaymentCoD\bin\Debug\netcoreapp3.1\Spongue.Module.Orders.Views.dll
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.PaymentCoD\bin\Debug\netcoreapp3.1\Spongue.Module.Orders.Views.pdb
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.PaymentCoD\bin\Debug\netcoreapp3.1\Spongue.Module.Catalog.Views.dll

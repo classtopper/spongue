@@ -1,6 +1,6 @@
 {
-  "id": "Spongue.Module.ShippingTableRate",
-  "name": "Shipping Table Rate",
+  "id": "Spongue.Module.Core",
+  "name": "Core",
   "isBundledWithHost": true,
   "version": "1.0.0"
 }

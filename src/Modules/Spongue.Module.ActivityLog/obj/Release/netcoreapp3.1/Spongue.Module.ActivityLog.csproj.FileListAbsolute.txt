@@ -18,3 +18,4 @@ D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ActivityLog\obj\Release\netcoreapp3
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ActivityLog\obj\Release\netcoreapp3.1\staticwebassets\Spongue.Module.ActivityLog.StaticWebAssets.xml
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ActivityLog\obj\Release\netcoreapp3.1\Spongue.Module.ActivityLog.dll
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ActivityLog\obj\Release\netcoreapp3.1\Spongue.Module.ActivityLog.pdb
+D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ActivityLog\obj\Release\netcoreapp3.1\Spongue.Module.ActivityLog.csprojAssemblyReference.cache

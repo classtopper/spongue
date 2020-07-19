@@ -19,9 +19,9 @@ D:\Arvind\Gen\Spongue\src\Modules\Spongue.Module.StorageAmazonS3\obj\Debug\netco
 D:\Arvind\Gen\Spongue\src\Modules\Spongue.Module.StorageAmazonS3\obj\Debug\netcoreapp3.1\Spongue.Module.StorageAmazonS3.dll
 D:\Arvind\Gen\Spongue\src\Modules\Spongue.Module.StorageAmazonS3\obj\Debug\netcoreapp3.1\Spongue.Module.StorageAmazonS3.pdb
 D:\Arvind\Gen\Spongue\src\Modules\Spongue.Module.StorageAmazonS3\obj\Debug\netcoreapp3.1\Spongue.Module.StorageAmazonS3.csprojAssemblyReference.cache
-D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.StorageAmazonS3\bin\Debug\netcoreapp3.1\module.json
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.StorageAmazonS3\bin\Debug\netcoreapp3.1\Spongue.Module.Core.Views.dll
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.StorageAmazonS3\bin\Debug\netcoreapp3.1\Spongue.Module.Core.Views.pdb
+D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.StorageAmazonS3\bin\Debug\netcoreapp3.1\module.json
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.StorageAmazonS3\bin\Debug\netcoreapp3.1\Spongue.Module.StorageAmazonS3.StaticWebAssets.xml
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.StorageAmazonS3\bin\Debug\netcoreapp3.1\Spongue.Module.StorageAmazonS3.deps.json
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.StorageAmazonS3\bin\Debug\netcoreapp3.1\Spongue.Module.StorageAmazonS3.dll

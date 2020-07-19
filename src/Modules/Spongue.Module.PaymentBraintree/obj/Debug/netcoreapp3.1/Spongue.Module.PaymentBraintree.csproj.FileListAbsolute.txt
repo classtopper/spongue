@@ -63,9 +63,9 @@ D:\Arvind\Gen\Spongue\src\Modules\Spongue.Module.PaymentBraintree\bin\Debug\netc
 D:\Arvind\Gen\Spongue\src\Modules\Spongue.Module.PaymentBraintree\bin\Debug\netcoreapp3.1\Spongue.Module.Shipping.StaticWebAssets.xml
 D:\Arvind\Gen\Spongue\src\Modules\Spongue.Module.PaymentBraintree\bin\Debug\netcoreapp3.1\Spongue.Module.ShippingPrices.StaticWebAssets.xml
 D:\Arvind\Gen\Spongue\src\Modules\Spongue.Module.PaymentBraintree\bin\Debug\netcoreapp3.1\Spongue.Module.ShoppingCart.StaticWebAssets.xml
-D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.PaymentBraintree\bin\Debug\netcoreapp3.1\module.json
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.PaymentBraintree\bin\Debug\netcoreapp3.1\Spongue.Module.Core.Views.dll
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.PaymentBraintree\bin\Debug\netcoreapp3.1\Spongue.Module.Core.Views.pdb
+D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.PaymentBraintree\bin\Debug\netcoreapp3.1\module.json
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.PaymentBraintree\bin\Debug\netcoreapp3.1\Spongue.Module.Payments.Views.dll
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.PaymentBraintree\bin\Debug\netcoreapp3.1\Spongue.Module.Payments.Views.pdb
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.PaymentBraintree\bin\Debug\netcoreapp3.1\Spongue.Module.Orders.Views.dll
@@ -108,7 +108,6 @@ D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.PaymentBraintree\bin\Debug\netcorea
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.PaymentBraintree\bin\Debug\netcoreapp3.1\Spongue.Module.ShippingPrices.pdb
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.PaymentBraintree\bin\Debug\netcoreapp3.1\Spongue.Module.ShoppingCart.pdb
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.PaymentBraintree\bin\Debug\netcoreapp3.1\Spongue.Module.Tax.pdb
-D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.PaymentBraintree\obj\Debug\netcoreapp3.1\Spongue.Module.PaymentBraintree.csprojAssemblyReference.cache
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.PaymentBraintree\obj\Debug\netcoreapp3.1\Spongue.Module.PaymentBraintree.AssemblyInfoInputs.cache
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.PaymentBraintree\obj\Debug\netcoreapp3.1\Spongue.Module.PaymentBraintree.AssemblyInfo.cs
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.PaymentBraintree\obj\Debug\netcoreapp3.1\Spongue.Module.PaymentBraintree.csproj.CoreCompileInputs.cache
@@ -128,3 +127,4 @@ D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.PaymentBraintree\obj\Debug\netcorea
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.PaymentBraintree\obj\Debug\netcoreapp3.1\staticwebassets\Spongue.Module.PaymentBraintree.StaticWebAssets.xml
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.PaymentBraintree\obj\Debug\netcoreapp3.1\Spongue.Module.PaymentBraintree.dll
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.PaymentBraintree\obj\Debug\netcoreapp3.1\Spongue.Module.PaymentBraintree.pdb
+D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.PaymentBraintree\obj\Debug\netcoreapp3.1\Spongue.Module.PaymentBraintree.csprojAssemblyReference.cache

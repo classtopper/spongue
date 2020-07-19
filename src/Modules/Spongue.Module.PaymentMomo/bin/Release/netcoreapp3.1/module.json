@@ -1,6 +1,6 @@
 {
-  "id": "Spongue.Module.PaymentMomo",
-  "name": "Momo Payment",
+  "id": "Spongue.Module.ShoppingCart",
+  "name": "Shopping Cart",
   "isBundledWithHost": true,
   "version": "1.0.0"
 }

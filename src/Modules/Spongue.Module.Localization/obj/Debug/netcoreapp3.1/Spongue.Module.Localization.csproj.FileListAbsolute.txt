@@ -18,9 +18,9 @@ D:\Arvind\Gen\Spongue\src\Modules\Spongue.Module.Localization\obj\Debug\netcorea
 D:\Arvind\Gen\Spongue\src\Modules\Spongue.Module.Localization\obj\Debug\netcoreapp3.1\staticwebassets\Spongue.Module.Localization.StaticWebAssets.xml
 D:\Arvind\Gen\Spongue\src\Modules\Spongue.Module.Localization\obj\Debug\netcoreapp3.1\Spongue.Module.Localization.dll
 D:\Arvind\Gen\Spongue\src\Modules\Spongue.Module.Localization\obj\Debug\netcoreapp3.1\Spongue.Module.Localization.pdb
-D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Localization\bin\Debug\netcoreapp3.1\module.json
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Localization\bin\Debug\netcoreapp3.1\Spongue.Module.Core.Views.dll
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Localization\bin\Debug\netcoreapp3.1\Spongue.Module.Core.Views.pdb
+D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Localization\bin\Debug\netcoreapp3.1\module.json
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Localization\bin\Debug\netcoreapp3.1\Spongue.Module.Localization.StaticWebAssets.xml
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Localization\bin\Debug\netcoreapp3.1\Spongue.Module.Localization.deps.json
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Localization\bin\Debug\netcoreapp3.1\Spongue.Module.Localization.dll

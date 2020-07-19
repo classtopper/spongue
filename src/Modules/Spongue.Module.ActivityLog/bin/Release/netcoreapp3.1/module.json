@@ -1,6 +1,6 @@
 {
-  "id": "Spongue.Module.ActivityLog",
-  "name": "Activity Log",
+  "id": "Spongue.Module.Core",
+  "name": "Core",
   "isBundledWithHost": true,
   "version": "1.0.0"
 }

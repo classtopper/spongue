@@ -1,6 +1,6 @@
 {
-  "id": "Spongue.Module.StorageAzureBlob",
-  "name": "Azure BLOB Storage",
-  "version": "1.0.0",
-  "isBundledWithHost": true
+  "id": "Spongue.Module.Core",
+  "name": "Core",
+  "isBundledWithHost": true,
+  "version": "1.0.0"
 }

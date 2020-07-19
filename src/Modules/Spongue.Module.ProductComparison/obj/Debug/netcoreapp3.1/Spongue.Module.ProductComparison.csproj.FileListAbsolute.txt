@@ -40,9 +40,9 @@ D:\Arvind\Gen\Spongue\src\Modules\Spongue.Module.ProductComparison\obj\Debug\net
 D:\Arvind\Gen\Spongue\src\Modules\Spongue.Module.ProductComparison\obj\Debug\netcoreapp3.1\Spongue.Module.ProductComparison.dll
 D:\Arvind\Gen\Spongue\src\Modules\Spongue.Module.ProductComparison\obj\Debug\netcoreapp3.1\Spongue.Module.ProductComparison.pdb
 D:\Arvind\Gen\Spongue\src\Modules\Spongue.Module.ProductComparison\obj\Debug\netcoreapp3.1\Spongue.Module.ProductComparison.csprojAssemblyReference.cache
-D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductComparison\bin\Debug\netcoreapp3.1\module.json
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductComparison\bin\Debug\netcoreapp3.1\Spongue.Module.Core.Views.dll
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductComparison\bin\Debug\netcoreapp3.1\Spongue.Module.Core.Views.pdb
+D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductComparison\bin\Debug\netcoreapp3.1\module.json
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductComparison\bin\Debug\netcoreapp3.1\Spongue.Module.Catalog.Views.dll
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductComparison\bin\Debug\netcoreapp3.1\Spongue.Module.Catalog.Views.pdb
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductComparison\bin\Debug\netcoreapp3.1\Spongue.Module.Tax.StaticWebAssets.xml
@@ -61,7 +61,6 @@ D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductComparison\bin\Debug\netcore
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductComparison\bin\Debug\netcoreapp3.1\Spongue.Module.Core.pdb
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductComparison\bin\Debug\netcoreapp3.1\Spongue.Module.Catalog.pdb
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductComparison\bin\Debug\netcoreapp3.1\Spongue.Module.Tax.pdb
-D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductComparison\obj\Debug\netcoreapp3.1\Spongue.Module.ProductComparison.csprojAssemblyReference.cache
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductComparison\obj\Debug\netcoreapp3.1\Spongue.Module.ProductComparison.AssemblyInfoInputs.cache
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductComparison\obj\Debug\netcoreapp3.1\Spongue.Module.ProductComparison.AssemblyInfo.cs
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductComparison\obj\Debug\netcoreapp3.1\Spongue.Module.ProductComparison.csproj.CoreCompileInputs.cache
@@ -82,3 +81,4 @@ D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductComparison\obj\Debug\netcore
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductComparison\obj\Debug\netcoreapp3.1\staticwebassets\Spongue.Module.ProductComparison.StaticWebAssets.xml
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductComparison\obj\Debug\netcoreapp3.1\Spongue.Module.ProductComparison.dll
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductComparison\obj\Debug\netcoreapp3.1\Spongue.Module.ProductComparison.pdb
+D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductComparison\obj\Debug\netcoreapp3.1\Spongue.Module.ProductComparison.csprojAssemblyReference.cache

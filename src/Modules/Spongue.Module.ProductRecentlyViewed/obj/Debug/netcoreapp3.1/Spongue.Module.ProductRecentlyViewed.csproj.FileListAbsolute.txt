@@ -39,11 +39,11 @@ D:\Arvind\Gen\Spongue\src\Modules\Spongue.Module.ProductRecentlyViewed\obj\Debug
 D:\Arvind\Gen\Spongue\src\Modules\Spongue.Module.ProductRecentlyViewed\obj\Debug\netcoreapp3.1\Spongue.Module.ProductRecentlyViewed.dll
 D:\Arvind\Gen\Spongue\src\Modules\Spongue.Module.ProductRecentlyViewed\obj\Debug\netcoreapp3.1\Spongue.Module.ProductRecentlyViewed.pdb
 D:\Arvind\Gen\Spongue\src\Modules\Spongue.Module.ProductRecentlyViewed\obj\Debug\netcoreapp3.1\Spongue.Module.ProductRecentlyViewed.csprojAssemblyReference.cache
-D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductRecentlyViewed\bin\Debug\netcoreapp3.1\module.json
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductRecentlyViewed\bin\Debug\netcoreapp3.1\Spongue.Module.Catalog.Views.dll
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductRecentlyViewed\bin\Debug\netcoreapp3.1\Spongue.Module.Catalog.Views.pdb
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductRecentlyViewed\bin\Debug\netcoreapp3.1\Spongue.Module.Core.Views.dll
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductRecentlyViewed\bin\Debug\netcoreapp3.1\Spongue.Module.Core.Views.pdb
+D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductRecentlyViewed\bin\Debug\netcoreapp3.1\module.json
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductRecentlyViewed\bin\Debug\netcoreapp3.1\Spongue.Module.Tax.StaticWebAssets.xml
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductRecentlyViewed\bin\Debug\netcoreapp3.1\Spongue.Module.Catalog.StaticWebAssets.xml
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductRecentlyViewed\bin\Debug\netcoreapp3.1\Spongue.Module.ProductRecentlyViewed.StaticWebAssets.xml
@@ -60,7 +60,6 @@ D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductRecentlyViewed\bin\Debug\net
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductRecentlyViewed\bin\Debug\netcoreapp3.1\Spongue.Module.Core.pdb
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductRecentlyViewed\bin\Debug\netcoreapp3.1\Spongue.Infrastructure.pdb
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductRecentlyViewed\bin\Debug\netcoreapp3.1\Spongue.Module.Tax.pdb
-D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductRecentlyViewed\obj\Debug\netcoreapp3.1\Spongue.Module.ProductRecentlyViewed.csprojAssemblyReference.cache
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductRecentlyViewed\obj\Debug\netcoreapp3.1\Spongue.Module.ProductRecentlyViewed.AssemblyInfoInputs.cache
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductRecentlyViewed\obj\Debug\netcoreapp3.1\Spongue.Module.ProductRecentlyViewed.AssemblyInfo.cs
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductRecentlyViewed\obj\Debug\netcoreapp3.1\Spongue.Module.ProductRecentlyViewed.csproj.CoreCompileInputs.cache
@@ -80,3 +79,4 @@ D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductRecentlyViewed\obj\Debug\net
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductRecentlyViewed\obj\Debug\netcoreapp3.1\staticwebassets\Spongue.Module.ProductRecentlyViewed.StaticWebAssets.xml
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductRecentlyViewed\obj\Debug\netcoreapp3.1\Spongue.Module.ProductRecentlyViewed.dll
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductRecentlyViewed\obj\Debug\netcoreapp3.1\Spongue.Module.ProductRecentlyViewed.pdb
+D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductRecentlyViewed\obj\Debug\netcoreapp3.1\Spongue.Module.ProductRecentlyViewed.csprojAssemblyReference.cache

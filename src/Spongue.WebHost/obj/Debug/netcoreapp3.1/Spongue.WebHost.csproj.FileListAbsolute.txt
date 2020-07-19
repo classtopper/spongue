@@ -645,9 +645,9 @@ D:\Arvind\Gen\Spongue\src\Spongue.WebHost\obj\Debug\netcoreapp3.1\Razor\Views\Sh
 D:\Arvind\Gen\Spongue\src\Spongue.WebHost\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
 D:\Arvind\Gen\Spongue\src\Spongue.WebHost\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_SelectLanguagePartial.cshtml.g.cs
 D:\Arvind\Gen\Spongue\src\Spongue.WebHost\obj\Debug\netcoreapp3.1\Razor\Themes\CozaStore\Areas\Catalog\Views\Shared\Components\SpongueProductWidget\Default.cshtml.g.cs
-D:\Arvind\Gen\GIT\src\Spongue.WebHost\bin\Debug\netcoreapp3.1\module.json
 D:\Arvind\Gen\GIT\src\Spongue.WebHost\bin\Debug\netcoreapp3.1\Spongue.Module.Core.Views.dll
 D:\Arvind\Gen\GIT\src\Spongue.WebHost\bin\Debug\netcoreapp3.1\Spongue.Module.Core.Views.pdb
+D:\Arvind\Gen\GIT\src\Spongue.WebHost\bin\Debug\netcoreapp3.1\module.json
 D:\Arvind\Gen\GIT\src\Spongue.WebHost\bin\Debug\netcoreapp3.1\Spongue.Module.Catalog.Views.dll
 D:\Arvind\Gen\GIT\src\Spongue.WebHost\bin\Debug\netcoreapp3.1\Spongue.Module.Catalog.Views.pdb
 D:\Arvind\Gen\GIT\src\Spongue.WebHost\bin\Debug\netcoreapp3.1\Spongue.Module.Tax.StaticWebAssets.xml
@@ -659,13 +659,16 @@ D:\Arvind\Gen\GIT\src\Spongue.WebHost\bin\Debug\netcoreapp3.1\Spongue.Module.Sho
 D:\Arvind\Gen\GIT\src\Spongue.WebHost\bin\Debug\netcoreapp3.1\Spongue.Module.ShoppingCart.Views.pdb
 D:\Arvind\Gen\GIT\src\Spongue.WebHost\bin\Debug\netcoreapp3.1\Spongue.Module.Pricing.StaticWebAssets.xml
 D:\Arvind\Gen\GIT\src\Spongue.WebHost\bin\Debug\netcoreapp3.1\Spongue.Module.ShoppingCart.StaticWebAssets.xml
+D:\Arvind\Gen\GIT\src\Spongue.WebHost\bin\Debug\netcoreapp3.1\Spongue.Module.ActivityLog.StaticWebAssets.xml
 D:\Arvind\Gen\GIT\src\Spongue.WebHost\bin\Debug\netcoreapp3.1\Spongue.Module.Cms.Views.dll
 D:\Arvind\Gen\GIT\src\Spongue.WebHost\bin\Debug\netcoreapp3.1\Spongue.Module.Cms.Views.pdb
+D:\Arvind\Gen\GIT\src\Spongue.WebHost\bin\Debug\netcoreapp3.1\Spongue.Module.Cms.StaticWebAssets.xml
 D:\Arvind\Gen\GIT\src\Spongue.WebHost\bin\Debug\netcoreapp3.1\Spongue.Module.Comments.Views.dll
 D:\Arvind\Gen\GIT\src\Spongue.WebHost\bin\Debug\netcoreapp3.1\Spongue.Module.Comments.Views.pdb
 D:\Arvind\Gen\GIT\src\Spongue.WebHost\bin\Debug\netcoreapp3.1\Spongue.Module.Comments.StaticWebAssets.xml
 D:\Arvind\Gen\GIT\src\Spongue.WebHost\bin\Debug\netcoreapp3.1\Spongue.Module.Contacts.Views.dll
 D:\Arvind\Gen\GIT\src\Spongue.WebHost\bin\Debug\netcoreapp3.1\Spongue.Module.Contacts.Views.pdb
+D:\Arvind\Gen\GIT\src\Spongue.WebHost\bin\Debug\netcoreapp3.1\Spongue.Module.Contacts.StaticWebAssets.xml
 D:\Arvind\Gen\GIT\src\Spongue.WebHost\bin\Debug\netcoreapp3.1\Spongue.Module.DinkToPdf.StaticWebAssets.xml
 D:\Arvind\Gen\GIT\src\Spongue.WebHost\bin\Debug\netcoreapp3.1\Spongue.Module.EmailSenderSmtp.StaticWebAssets.xml
 D:\Arvind\Gen\GIT\src\Spongue.WebHost\bin\Debug\netcoreapp3.1\Spongue.Module.HangfireJobs.StaticWebAssets.xml

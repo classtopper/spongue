@@ -38,9 +38,9 @@ D:\Arvind\Gen\Spongue\src\Modules\Spongue.Module.Notifications\obj\Debug\netcore
 D:\Arvind\Gen\Spongue\src\Modules\Spongue.Module.Notifications\obj\Debug\netcoreapp3.1\staticwebassets\Spongue.Module.Notifications.StaticWebAssets.xml
 D:\Arvind\Gen\Spongue\src\Modules\Spongue.Module.Notifications\obj\Debug\netcoreapp3.1\Spongue.Module.Notifications.dll
 D:\Arvind\Gen\Spongue\src\Modules\Spongue.Module.Notifications\obj\Debug\netcoreapp3.1\Spongue.Module.Notifications.pdb
-D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Notifications\bin\Debug\netcoreapp3.1\module.json
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Notifications\bin\Debug\netcoreapp3.1\Spongue.Module.Core.Views.dll
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Notifications\bin\Debug\netcoreapp3.1\Spongue.Module.Core.Views.pdb
+D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Notifications\bin\Debug\netcoreapp3.1\module.json
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Notifications\bin\Debug\netcoreapp3.1\Spongue.Module.HangfireJobs.StaticWebAssets.xml
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Notifications\bin\Debug\netcoreapp3.1\Spongue.Module.SignalR.StaticWebAssets.xml
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Notifications\bin\Debug\netcoreapp3.1\Spongue.Module.Notifications.StaticWebAssets.xml

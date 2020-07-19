@@ -1,6 +1,6 @@
 {
-  "id": "Spongue.Module.Cms",
-  "name": "Content Management System (CMS)",
+  "id": "Spongue.Module.Core",
+  "name": "Core",
   "isBundledWithHost": true,
   "version": "1.0.0"
 }

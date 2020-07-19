@@ -1,6 +1,6 @@
 {
-  "id": "Spongue.Module.Catalog",
-  "name": "Catalog",
+  "id": "Spongue.Module.Core",
+  "name": "Core",
   "isBundledWithHost": true,
   "version": "1.0.0"
 }

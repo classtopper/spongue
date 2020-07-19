@@ -39,3 +39,4 @@ D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductComparison\obj\Release\netco
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductComparison\obj\Release\netcoreapp3.1\staticwebassets\Spongue.Module.ProductComparison.StaticWebAssets.xml
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductComparison\obj\Release\netcoreapp3.1\Spongue.Module.ProductComparison.dll
 D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductComparison\obj\Release\netcoreapp3.1\Spongue.Module.ProductComparison.pdb
+D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.ProductComparison\obj\Release\netcoreapp3.1\Spongue.Module.ProductComparison.csprojAssemblyReference.cache
