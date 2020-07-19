@@ -1,5 +1,5 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="_content/Spongue.Module.Catalog" Path="D:\Arvind\Gen\Spongue\src\Modules\Spongue.Module.Catalog\wwwroot\" />
-  <ContentRoot BasePath="_content/Spongue.Module.Core" Path="D:\Arvind\Gen\Spongue\src\Modules\Spongue.Module.Core\wwwroot\" />
-  <ContentRoot BasePath="_content/Spongue.Module.Tax" Path="D:\Arvind\Gen\Spongue\src\Modules\Spongue.Module.Tax\wwwroot\" />
+  <ContentRoot BasePath="_content/Spongue.Module.Catalog" Path="D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Catalog\wwwroot\" />
+  <ContentRoot BasePath="_content/Spongue.Module.Core" Path="D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Core\wwwroot\" />
+  <ContentRoot BasePath="_content/Spongue.Module.Tax" Path="D:\Arvind\Gen\GIT\src\Modules\Spongue.Module.Tax\wwwroot\" />
 </StaticWebAssets>
