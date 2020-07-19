@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Razor">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AddRazorSupportForMvc>true</AddRazorSupportForMvc>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="WindowsAzure.Storage" version="9.3.3" />
+    <ProjectReference Include="..\..\Spongue.Infrastructure\Spongue.Infrastructure.csproj" />
+    <ProjectReference Include="..\Spongue.Module.Core\Spongue.Module.Core.csproj" />
+  </ItemGroup>
+
+
+
+</Project>

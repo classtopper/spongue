@@ -1,0 +1,768 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.PaymentMomo\\Spongue.Module.PaymentMomo.csproj": {}
+  },
+  "projects": {
+    "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Catalog\\Spongue.Module.Catalog.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Catalog\\Spongue.Module.Catalog.csproj",
+        "projectName": "Spongue.Module.Catalog",
+        "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Catalog\\Spongue.Module.Catalog.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Catalog\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj"
+              },
+              "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Tax\\Spongue.Module.Tax.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Tax\\Spongue.Module.Tax.csproj"
+              },
+              "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj",
+        "projectName": "Spongue.Module.Core",
+        "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Orders\\Spongue.Module.Orders.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Orders\\Spongue.Module.Orders.csproj",
+        "projectName": "Spongue.Module.Orders",
+        "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Orders\\Spongue.Module.Orders.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Orders\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Catalog\\Spongue.Module.Catalog.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Catalog\\Spongue.Module.Catalog.csproj"
+              },
+              "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj"
+              },
+              "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Pricing\\Spongue.Module.Pricing.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Pricing\\Spongue.Module.Pricing.csproj"
+              },
+              "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.ShippingPrices\\Spongue.Module.ShippingPrices.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.ShippingPrices\\Spongue.Module.ShippingPrices.csproj"
+              },
+              "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.ShoppingCart\\Spongue.Module.ShoppingCart.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.ShoppingCart\\Spongue.Module.ShoppingCart.csproj"
+              },
+              "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.PaymentMomo\\Spongue.Module.PaymentMomo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.PaymentMomo\\Spongue.Module.PaymentMomo.csproj",
+        "projectName": "Spongue.Module.PaymentMomo",
+        "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.PaymentMomo\\Spongue.Module.PaymentMomo.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.PaymentMomo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj"
+              },
+              "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Orders\\Spongue.Module.Orders.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Orders\\Spongue.Module.Orders.csproj"
+              },
+              "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Payments\\Spongue.Module.Payments.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Payments\\Spongue.Module.Payments.csproj"
+              },
+              "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Payments\\Spongue.Module.Payments.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Payments\\Spongue.Module.Payments.csproj",
+        "projectName": "Spongue.Module.Payments",
+        "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Payments\\Spongue.Module.Payments.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Payments\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj"
+              },
+              "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Orders\\Spongue.Module.Orders.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Orders\\Spongue.Module.Orders.csproj"
+              },
+              "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Pricing\\Spongue.Module.Pricing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Pricing\\Spongue.Module.Pricing.csproj",
+        "projectName": "Spongue.Module.Pricing",
+        "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Pricing\\Spongue.Module.Pricing.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Pricing\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Catalog\\Spongue.Module.Catalog.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Catalog\\Spongue.Module.Catalog.csproj"
+              },
+              "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj"
+              },
+              "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.ShippingPrices\\Spongue.Module.ShippingPrices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.ShippingPrices\\Spongue.Module.ShippingPrices.csproj",
+        "projectName": "Spongue.Module.ShippingPrices",
+        "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.ShippingPrices\\Spongue.Module.ShippingPrices.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.ShippingPrices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Catalog\\Spongue.Module.Catalog.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Catalog\\Spongue.Module.Catalog.csproj"
+              },
+              "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj"
+              },
+              "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Shipping\\Spongue.Module.Shipping.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Shipping\\Spongue.Module.Shipping.csproj"
+              },
+              "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Shipping\\Spongue.Module.Shipping.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Shipping\\Spongue.Module.Shipping.csproj",
+        "projectName": "Spongue.Module.Shipping",
+        "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Shipping\\Spongue.Module.Shipping.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Shipping\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Catalog\\Spongue.Module.Catalog.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Catalog\\Spongue.Module.Catalog.csproj"
+              },
+              "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj"
+              },
+              "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.ShoppingCart\\Spongue.Module.ShoppingCart.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.ShoppingCart\\Spongue.Module.ShoppingCart.csproj",
+        "projectName": "Spongue.Module.ShoppingCart",
+        "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.ShoppingCart\\Spongue.Module.ShoppingCart.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.ShoppingCart\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Catalog\\Spongue.Module.Catalog.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Catalog\\Spongue.Module.Catalog.csproj"
+              },
+              "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj"
+              },
+              "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Pricing\\Spongue.Module.Pricing.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Pricing\\Spongue.Module.Pricing.csproj"
+              },
+              "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Tax\\Spongue.Module.Tax.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Tax\\Spongue.Module.Tax.csproj",
+        "projectName": "Spongue.Module.Tax",
+        "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Tax\\Spongue.Module.Tax.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Tax\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj"
+              },
+              "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj": {
+                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj",
+        "projectName": "Spongue.Infrastructure",
+        "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Humanizer": {
+              "target": "Package",
+              "version": "[2.7.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.CodeAnalysis.FxCopAnalyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.9.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "cloudscribe.Web.Pagination": {
+              "target": "Package",
+              "version": "[2.1.11, )"
+            },
+            "ncrontab": {
+              "target": "Package",
+              "version": "[3.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

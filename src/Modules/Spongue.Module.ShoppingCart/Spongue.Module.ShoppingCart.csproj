@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Razor">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AddRazorSupportForMvc>true</AddRazorSupportForMvc>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Spongue.Infrastructure\Spongue.Infrastructure.csproj" />
+    <ProjectReference Include="..\Spongue.Module.Core\Spongue.Module.Core.csproj" />
+    <ProjectReference Include="..\Spongue.Module.Catalog\Spongue.Module.Catalog.csproj" />
+    <ProjectReference Include="..\Spongue.Module.Pricing\Spongue.Module.Pricing.csproj" />
+  </ItemGroup>
+
+
+
+</Project>

@@ -1,0 +1,23 @@
+﻿using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.AspNetCore.Hosting;
+using Spongue.Infrastructure.Modules;
+using Spongue.Module.SampleData.Data;
+using Spongue.Module.SampleData.Services;
+
+namespace Spongue.Module.SampleData
+{
+    public class ModuleInitializer : IModuleInitializer
+    {
+        public void ConfigureServices(IServiceCollection services)
+        {
+            services.AddTransient<ISqlRepository, SqlRepository>();
+            services.AddTransient<ISampleDataService, SampleDataService>();
+        }
+
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        {
+
+        }
+    }
+}

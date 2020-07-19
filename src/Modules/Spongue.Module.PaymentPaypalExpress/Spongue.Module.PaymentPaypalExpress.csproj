@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Razor">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AddRazorSupportForMvc>true</AddRazorSupportForMvc>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Content Remove="bundleconfig.json" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <EmbeddedResource Include="bundleconfig.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Spongue.Infrastructure\Spongue.Infrastructure.csproj" />
+    <ProjectReference Include="..\Spongue.Module.Orders\Spongue.Module.Orders.csproj" />
+    <ProjectReference Include="..\Spongue.Module.Payments\Spongue.Module.Payments.csproj" />
+  </ItemGroup>
+
+
+
+</Project>

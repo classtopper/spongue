@@ -1,0 +1,21 @@
+﻿using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.AspNetCore.Hosting;
+using Spongue.Infrastructure.Modules;
+using Spongue.Module.ProductComparison.Services;
+
+namespace Spongue.Module.ProductComparison
+{
+    public class ModuleInitializer : IModuleInitializer
+    {
+        public void ConfigureServices(IServiceCollection services)
+        {
+            services.AddTransient<IComparingProductService, ComparingProductService>();
+        }
+
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+        {
+
+        }
+    }
+}

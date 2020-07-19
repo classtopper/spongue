@@ -1,0 +1,89 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <EnableDefaultContentItems>false</EnableDefaultContentItems>
+    <MvcRazorCompileOnPublish>false</MvcRazorCompileOnPublish>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+    <UserSecretsId>182662be-e945-4694-aa03-ee1bceb2cf99</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="wwwroot\**\*;modules.json;appsettings.json;Modules\**\*;Themes\**\*;Views\**\*">
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="wwwroot\lib\bootstrap4\js\jquery-3.3.1.min.js" />
+    <None Remove="wwwroot\lib\bootstrap4\js\popper.min.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Modules\Spongue.Module.Core\Spongue.Module.Core.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.ShippingFree\Spongue.Module.ShippingFree.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.ShoppingCart\Spongue.Module.ShoppingCart.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.ActivityLog\Spongue.Module.ActivityLog.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.Catalog\Spongue.Module.Catalog.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.Cms\Spongue.Module.Cms.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.Comments\Spongue.Module.Comments.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.Contacts\Spongue.Module.Contacts.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.DinkToPdf\Spongue.Module.DinkToPdf.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.EmailSenderSmtp\Spongue.Module.EmailSenderSmtp.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.HangfireJobs\Spongue.Module.HangfireJobs.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.Inventory\Spongue.Module.Inventory.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.Localization\Spongue.Module.Localization.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.News\Spongue.Module.News.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.Notifications\Spongue.Module.Notifications.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.Orders\Spongue.Module.Orders.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.PaymentBraintree\Spongue.Module.PaymentBraintree.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.PaymentCashfree\Spongue.Module.PaymentCashfree.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.PaymentCoD\Spongue.Module.PaymentCoD.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.PaymentMomo\Spongue.Module.PaymentMomo.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.PaymentNganLuong\Spongue.Module.PaymentNganLuong.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.PaymentPaypalExpress\Spongue.Module.PaymentPaypalExpress.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.PaymentStripe\Spongue.Module.PaymentStripe.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.Payments\Spongue.Module.Payments.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.Pricing\Spongue.Module.Pricing.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.ProductComparison\Spongue.Module.ProductComparison.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.ProductRecentlyViewed\Spongue.Module.ProductRecentlyViewed.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.Reviews\Spongue.Module.Reviews.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.SampleData\Spongue.Module.SampleData.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.Search\Spongue.Module.Search.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.Shipments\Spongue.Module.Shipments.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.ShippingPrices\Spongue.Module.ShippingPrices.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.ShippingTableRate\Spongue.Module.ShippingTableRate.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.Shipping\Spongue.Module.Shipping.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.SignalR\Spongue.Module.SignalR.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.StorageAmazonS3\Spongue.Module.StorageAmazonS3.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.StorageAzureBlob\Spongue.Module.StorageAzureBlob.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.StorageLocal\Spongue.Module.StorageLocal.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.Tax\Spongue.Module.Tax.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.Vendors\Spongue.Module.Vendors.csproj" />
+    <ProjectReference Include="..\Modules\Spongue.Module.WishList\Spongue.Module.WishList.csproj" />
+    <ProjectReference Include="..\Spongue.Infrastructure\Spongue.Infrastructure.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="IdentityServer4.AspNetIdentity" Version="3.0.1" />
+    <PackageReference Include="BuildBundlerMinifier" Version="3.0.415" />
+    <PackageReference Include="Microsoft.AspNetCore.Antiforgery" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.Facebook" Version="3.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.Google" Version="3.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="3.1.0" />
+    <PackageReference Include="Microsoft.CodeAnalysis.FxCopAnalyzers" Version="2.9.8">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.0" />
+    <PackageReference Include="Serilog.Extensions.Logging" Version="3.0.1" />
+    <PackageReference Include="Serilog.Settings.Configuration" Version="3.1.0" />
+    <PackageReference Include="Serilog.Sinks.RollingFile" Version="3.3.1-dev-00767" />
+    <PackageReference Include="MediatR" Version="7.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.0.0-rc4" />
+    <PackageReference Include="MySql.Data.EntityFrameworkCore" Version="8.0.20" />
+  </ItemGroup>
+  
+</Project>

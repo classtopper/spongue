@@ -1,0 +1,122 @@
+﻿@using System.Globalization
+
+<!doctype html>
+<html lang="@CultureInfo.CurrentUICulture.Name.ToLowerInvariant()">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Spongue</title>
+    @RenderSection("additionalMeta", false)
+
+    <link spongue-append-version="true" rel="stylesheet" href="~/lib/bootstrap4/css/bootstrap.css" />
+    <link spongue-append-version="true" rel="stylesheet" href="~/lib/font-awesome/css/font-awesome.css" />
+    <link spongue-append-version="true" rel="stylesheet" href="~/lib/bootstrap-star-rating/css/star-rating.css" />
+    <link spongue-append-version="true" rel="stylesheet" href="~/lib/multi-dropdown-menu/css/bootstrap-4-navbar.css" />
+    <link spongue-append-version="true" rel="stylesheet" href="~/lib/toastr/build/toastr.min.css" />
+    <link spongue-append-version="true" rel="stylesheet" href="~/_content/Spongue.Module.Core/site.css" />
+    <link spongue-append-version="true" rel="stylesheet" href="~/themes/SampleTheme/site.css" />
+    <link spongue-append-version="true" rel="stylesheet" href="~/lib/smoothproducts/css/smoothproducts.css" />
+    <link spongue-append-version="true" rel="stylesheet" href="~/_content/Spongue.Module.Catalog/product-detail.css" />
+    <script spongue-append-version="true" src="~/lib/angular/angular.min.js"></script>
+    <script spongue-append-version="true" src="~/lib/bootstrap4/js/jquery-3.3.1.min.js"></script>
+
+    @RenderSection("head", required: false)
+</head>
+<body>
+    <div class="top-bar">
+        <div class="container">
+            <ul class="nav justify-content-end">
+                <partial name="_SelectLanguagePartial" />
+                <partial name="_LoginPartial" />
+            </ul>
+        </div>
+    </div>
+    <div class="main-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-md-6 col-lg-4 logo">
+                    <a asp-area="Core" asp-controller="Home" asp-action="Index">
+                        <img alt="Spongue" src="~/_content/Spongue.Module.Core/Logo_Spongue.png" />
+                    </a>
+                </div>
+                <div class="col-10 col-md-5 col-lg-7 search-box">
+                    @await Component.InvokeAsync("SearchForm")
+                </div>
+                <div class="col-2 col-md-1 cart-btn">
+                    @await Component.InvokeAsync("CartBadge")
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="navbar navbar-expand-lg navbar-light bg-light btco-hover-menu main-nav">
+        <div class="container">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMain" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarMain">
+                @await Component.InvokeAsync("CategoryMenu")
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+    </div>
+    <div class="footer-content">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                    <h4>@Localizer["Customer Service"]</h4>
+                    <vc:menu menu-id="1"></vc:menu>
+                </div>
+                <div class="col-md-3">
+                    <h4>Information</h4>
+                    <vc:menu menu-id="2"></vc:menu>
+                </div>
+                <div class="col-md-6">
+                    <h4>Spongue</h4>
+                    <p>The online shopping ocean.</p>
+                  
+                </div>
+            </div>
+            <hr />
+         
+            <p class="pull-left">&copy; @DateTime.Now.Year - Spongue</p>
+            <p class="pull-right">Powered by <a href="http://www.spongue.com"><strong>Spongue</strong></a></p>
+        </div>
+    </div>
+    <div id="shopModal" class="modal fade" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+            </div>
+        </div>
+    </div>
+    <div id="productOverview" class="modal fade" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content modal-padding">
+            </div>
+        </div>
+    </div>
+    <script>
+            window.simplGlobalSetting = {};
+            window.spongueGlobalSetting.lang = '@CultureInfo.CurrentCulture.Name';
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script spongue-append-version="true" src="~/lib/bootstrap4/js/bootstrap.min.js"></script>
+    <script spongue-append-version="true" src="~/lib/multi-dropdown-menu/js/bootstrap-4-navbar.js"></script>
+    <script spongue-append-version="true" src="~/lib/matchheight/jquery.matchHeight.js"></script>
+    <script spongue-append-version="true" src="~/lib/toastr/build/toastr.min.js"></script>
+    <script spongue-append-version="true" src="~/lib/bootstrap-star-rating/js/star-rating.js"></script>
+    @if (CultureInfo.CurrentCulture.Name != Spongue.Infrastructure.GlobalConfiguration.DefaultCulture)
+    {
+        <script spongue-append-version="true" src="~/lib/bootstrap-star-rating/js/locales/@(CultureInfo.CurrentCulture.Name).js"></script>
+    }
+    <script spongue-append-version="true" src="~/_content/Spongue.Module.Core/main.js"></script>
+    <script spongue-append-version="true" src="~/_content/Spongue.Module.ShoppingCart/add-to-cart.js"></script>
+    <script spongue-append-version="true" src="~/_content/Spongue.Module.ProductComparison/product-comparison.js"></script>
+    <script spongue-append-version="true" src="~/_content/Spongue.Module.WishList/wishlist.js"></script>
+    <script spongue-append-version="true" src="~/_content/Spongue.Module.Catalog/product-overview.js"></script>
+    @RenderSection("scripts", required: false)
+
+    <partial name="_AnalyticsScript" />
+</body>
+</html>

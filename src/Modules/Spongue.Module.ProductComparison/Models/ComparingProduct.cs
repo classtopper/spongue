@@ -1,0 +1,20 @@
+﻿using System;
+using Spongue.Infrastructure.Models;
+using Spongue.Module.Catalog.Models;
+using Spongue.Module.Core.Models;
+
+namespace Spongue.Module.ProductComparison.Models
+{
+    public class ComparingProduct : EntityBase
+    {
+        public DateTimeOffset CreatedOn { get; set; }
+
+        public long UserId { get; set; }
+
+        public User User { get; set; }
+
+        public long ProductId { get; set; }
+
+        public Product Product { get; set; }
+    }
+}

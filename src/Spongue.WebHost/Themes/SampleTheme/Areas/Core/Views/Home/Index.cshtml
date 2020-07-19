@@ -1,0 +1,15 @@
+﻿@model Spongue.Module.Core.Areas.Core.ViewModels.HomeViewModel
+
+@{
+    ViewData["Title"] = "Spongue";
+}
+<partial name="_WidgetInstances" model="Model.WidgetInstances.Where(x => x.WidgetZoneId == WidgetZoneIds.HomeFeatured)" />
+
+<div>
+    <h2 class="page-header">Sample Theme</h2>
+    <p>It's very easy to find and install new themes or create your own theme. </p>
+ </div>
+
+<partial name="_WidgetInstances" model="Model.WidgetInstances.Where(x => x.WidgetZoneId == WidgetZoneIds.HomeMainContent)" />
+
+<partial name="_WidgetInstances" model="Model.WidgetInstances.Where(x => x.WidgetZoneId == WidgetZoneIds.HomeAfterMainContent)" />
