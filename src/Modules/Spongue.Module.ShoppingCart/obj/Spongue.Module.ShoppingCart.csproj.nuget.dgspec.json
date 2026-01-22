@@ -1,40 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.ShoppingCart\\Spongue.Module.ShoppingCart.csproj": {}
+    "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.ShoppingCart/Spongue.Module.ShoppingCart.csproj": {}
   },
   "projects": {
-    "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Catalog\\Spongue.Module.Catalog.csproj": {
+    "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/Spongue.Module.Catalog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Catalog\\Spongue.Module.Catalog.csproj",
+        "projectUniqueName": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/Spongue.Module.Catalog.csproj",
         "projectName": "Spongue.Module.Catalog",
-        "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Catalog\\Spongue.Module.Catalog.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Catalog\\obj\\",
+        "projectPath": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/Spongue.Module.Catalog.csproj",
+        "packagesPath": "/Users/arvindkp/.nuget/packages/",
+        "outputPath": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/arvindkp/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj": {
-                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj"
+              "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Core/Spongue.Module.Core.csproj": {
+                "projectPath": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Core/Spongue.Module.Core.csproj"
               },
-              "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Tax\\Spongue.Module.Tax.csproj": {
-                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Tax\\Spongue.Module.Tax.csproj"
+              "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Tax/Spongue.Module.Tax.csproj": {
+                "projectPath": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Tax/Spongue.Module.Tax.csproj"
               },
-              "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj": {
-                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj"
+              "/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.Infrastructure/Spongue.Infrastructure.csproj": {
+                "projectPath": "/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.Infrastructure/Spongue.Infrastructure.csproj"
               }
             }
           }
@@ -43,17 +42,24 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -65,35 +71,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.417/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj": {
+    "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Core/Spongue.Module.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj",
+        "projectUniqueName": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Core/Spongue.Module.Core.csproj",
         "projectName": "Spongue.Module.Core",
-        "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\obj\\",
+        "projectPath": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Core/Spongue.Module.Core.csproj",
+        "packagesPath": "/Users/arvindkp/.nuget/packages/",
+        "outputPath": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/arvindkp/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj": {
-                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj"
+              "/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.Infrastructure/Spongue.Infrastructure.csproj": {
+                "projectPath": "/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.Infrastructure/Spongue.Infrastructure.csproj"
               }
             }
           }
@@ -102,10 +107,16 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.AspNet.WebApi.Client": {
               "target": "Package",
@@ -113,11 +124,21 @@
             },
             "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
               "target": "Package",
-              "version": "[3.1.0, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.0, )"
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
             }
           },
           "imports": [
@@ -126,7 +147,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -138,41 +160,40 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.417/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Pricing\\Spongue.Module.Pricing.csproj": {
+    "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Pricing/Spongue.Module.Pricing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Pricing\\Spongue.Module.Pricing.csproj",
+        "projectUniqueName": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Pricing/Spongue.Module.Pricing.csproj",
         "projectName": "Spongue.Module.Pricing",
-        "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Pricing\\Spongue.Module.Pricing.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Pricing\\obj\\",
+        "projectPath": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Pricing/Spongue.Module.Pricing.csproj",
+        "packagesPath": "/Users/arvindkp/.nuget/packages/",
+        "outputPath": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Pricing/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/arvindkp/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Catalog\\Spongue.Module.Catalog.csproj": {
-                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Catalog\\Spongue.Module.Catalog.csproj"
+              "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/Spongue.Module.Catalog.csproj": {
+                "projectPath": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/Spongue.Module.Catalog.csproj"
               },
-              "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj": {
-                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj"
+              "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Core/Spongue.Module.Core.csproj": {
+                "projectPath": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Core/Spongue.Module.Core.csproj"
               },
-              "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj": {
-                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj"
+              "/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.Infrastructure/Spongue.Infrastructure.csproj": {
+                "projectPath": "/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.Infrastructure/Spongue.Infrastructure.csproj"
               }
             }
           }
@@ -181,17 +202,24 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -203,44 +231,43 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.417/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.ShoppingCart\\Spongue.Module.ShoppingCart.csproj": {
+    "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.ShoppingCart/Spongue.Module.ShoppingCart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.ShoppingCart\\Spongue.Module.ShoppingCart.csproj",
+        "projectUniqueName": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.ShoppingCart/Spongue.Module.ShoppingCart.csproj",
         "projectName": "Spongue.Module.ShoppingCart",
-        "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.ShoppingCart\\Spongue.Module.ShoppingCart.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.ShoppingCart\\obj\\",
+        "projectPath": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.ShoppingCart/Spongue.Module.ShoppingCart.csproj",
+        "packagesPath": "/Users/arvindkp/.nuget/packages/",
+        "outputPath": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.ShoppingCart/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/arvindkp/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Catalog\\Spongue.Module.Catalog.csproj": {
-                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Catalog\\Spongue.Module.Catalog.csproj"
+              "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/Spongue.Module.Catalog.csproj": {
+                "projectPath": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/Spongue.Module.Catalog.csproj"
               },
-              "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj": {
-                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj"
+              "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Core/Spongue.Module.Core.csproj": {
+                "projectPath": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Core/Spongue.Module.Core.csproj"
               },
-              "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Pricing\\Spongue.Module.Pricing.csproj": {
-                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Pricing\\Spongue.Module.Pricing.csproj"
+              "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Pricing/Spongue.Module.Pricing.csproj": {
+                "projectPath": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Pricing/Spongue.Module.Pricing.csproj"
               },
-              "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj": {
-                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj"
+              "/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.Infrastructure/Spongue.Infrastructure.csproj": {
+                "projectPath": "/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.Infrastructure/Spongue.Infrastructure.csproj"
               }
             }
           }
@@ -249,17 +276,24 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -271,38 +305,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.417/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Tax\\Spongue.Module.Tax.csproj": {
+    "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Tax/Spongue.Module.Tax.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Tax\\Spongue.Module.Tax.csproj",
+        "projectUniqueName": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Tax/Spongue.Module.Tax.csproj",
         "projectName": "Spongue.Module.Tax",
-        "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Tax\\Spongue.Module.Tax.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Tax\\obj\\",
+        "projectPath": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Tax/Spongue.Module.Tax.csproj",
+        "packagesPath": "/Users/arvindkp/.nuget/packages/",
+        "outputPath": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Tax/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/arvindkp/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj": {
-                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Modules\\Spongue.Module.Core\\Spongue.Module.Core.csproj"
+              "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Core/Spongue.Module.Core.csproj": {
+                "projectPath": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Core/Spongue.Module.Core.csproj"
               },
-              "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj": {
-                "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj"
+              "/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.Infrastructure/Spongue.Infrastructure.csproj": {
+                "projectPath": "/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.Infrastructure/Spongue.Infrastructure.csproj"
               }
             }
           }
@@ -311,17 +344,24 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -333,32 +373,31 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.417/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj": {
+    "/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.Infrastructure/Spongue.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj",
+        "projectUniqueName": "/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.Infrastructure/Spongue.Infrastructure.csproj",
         "projectName": "Spongue.Infrastructure",
-        "projectPath": "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\Spongue.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Arvind\\Gen\\GIT\\src\\Spongue.Infrastructure\\obj\\",
+        "projectPath": "/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.Infrastructure/Spongue.Infrastructure.csproj",
+        "packagesPath": "/Users/arvindkp/.nuget/packages/",
+        "outputPath": "/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/arvindkp/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -366,40 +405,45 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Humanizer": {
               "target": "Package",
-              "version": "[2.7.2, )"
+              "version": "[2.14.1, )"
             },
             "MediatR": {
               "target": "Package",
-              "version": "[7.0.0, )"
+              "version": "[12.1.0, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[3.1.0, )"
+              "version": "[8.0.4, )"
             },
             "Microsoft.CodeAnalysis.FxCopAnalyzers": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.9.8, )"
+              "version": "[3.3.2, )"
             },
             "Microsoft.EntityFrameworkCore.Relational": {
               "target": "Package",
-              "version": "[3.1.0, )"
+              "version": "[8.0.4, )"
+            },
+            "NCrontab": {
+              "target": "Package",
+              "version": "[3.3.1, )"
             },
             "cloudscribe.Web.Pagination": {
               "target": "Package",
               "version": "[2.1.11, )"
-            },
-            "ncrontab": {
-              "target": "Package",
-              "version": "[3.3.1, )"
             }
           },
           "imports": [
@@ -408,7 +452,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -420,7 +465,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.417/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.PaymentMomo/wwwroot/admin/momo/momo-config-form.html",
+      "PackagePath": "staticwebassets/admin/momo/momo-config-form.html"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.PaymentMomo/wwwroot/admin/momo/momo-config-form.js",
+      "PackagePath": "staticwebassets/admin/momo/momo-config-form.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.PaymentMomo/wwwroot/admin/momo/momo-service.js",
+      "PackagePath": "staticwebassets/admin/momo/momo-service.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.PaymentMomo/wwwroot/admin/paymentMomo.module.js",
+      "PackagePath": "staticwebassets/admin/paymentMomo.module.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Spongue.Module.PaymentMomo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Spongue.Module.PaymentMomo.props",
+      "PackagePath": "build\\Spongue.Module.PaymentMomo.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Spongue.Module.PaymentMomo.props",
+      "PackagePath": "buildMultiTargeting\\Spongue.Module.PaymentMomo.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Spongue.Module.PaymentMomo.props",
+      "PackagePath": "buildTransitive\\Spongue.Module.PaymentMomo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

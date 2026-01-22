@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Spongue.Module.ShoppingCart.props" />
+</Project>

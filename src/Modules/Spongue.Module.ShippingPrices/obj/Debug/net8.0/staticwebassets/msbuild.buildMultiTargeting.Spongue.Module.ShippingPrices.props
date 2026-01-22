@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Spongue.Module.ShippingPrices.props" />
+</Project>

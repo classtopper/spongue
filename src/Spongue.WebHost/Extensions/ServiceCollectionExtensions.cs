@@ -238,7 +238,7 @@ namespace Spongue.WebHost.Extensions
 
         public static IServiceCollection AddCustomizedDataStore(this IServiceCollection services, IConfiguration configuration)
         {
-            services.AddDbContextPool<SpongueDbContext>(options =>
+            services.AddDbContext<SpongueDbContext>(options =>
                 options.UseSqlServer(configuration.GetConnectionString("DefaultConnection"),
                     b => b.MigrationsAssembly("Spongue.WebHost")));
             return services;

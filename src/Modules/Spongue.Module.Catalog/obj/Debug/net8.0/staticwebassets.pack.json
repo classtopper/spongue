@@ -1,0 +1,273 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/brand/brand-form.html",
+      "PackagePath": "staticwebassets/admin/brand/brand-form.html"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/brand/brand-form.js",
+      "PackagePath": "staticwebassets/admin/brand/brand-form.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/brand/brand-list.html",
+      "PackagePath": "staticwebassets/admin/brand/brand-list.html"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/brand/brand-list.js",
+      "PackagePath": "staticwebassets/admin/brand/brand-list.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/brand/brand-service.js",
+      "PackagePath": "staticwebassets/admin/brand/brand-service.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/catalog.module.js",
+      "PackagePath": "staticwebassets/admin/catalog.module.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/category-widget/category-widget-form.html",
+      "PackagePath": "staticwebassets/admin/category-widget/category-widget-form.html"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/category-widget/category-widget-form.js",
+      "PackagePath": "staticwebassets/admin/category-widget/category-widget-form.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/category-widget/category-widget-service.js",
+      "PackagePath": "staticwebassets/admin/category-widget/category-widget-service.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/category/category-form.html",
+      "PackagePath": "staticwebassets/admin/category/category-form.html"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/category/category-form.js",
+      "PackagePath": "staticwebassets/admin/category/category-form.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/category/category-list.html",
+      "PackagePath": "staticwebassets/admin/category/category-list.html"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/category/category-list.js",
+      "PackagePath": "staticwebassets/admin/category/category-list.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/category/category-service.js",
+      "PackagePath": "staticwebassets/admin/category/category-service.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/category/category-translation-form.html",
+      "PackagePath": "staticwebassets/admin/category/category-translation-form.html"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/category/category-translation-form.js",
+      "PackagePath": "staticwebassets/admin/category/category-translation-form.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product-attribute-group/product-attribute-group-form.html",
+      "PackagePath": "staticwebassets/admin/product-attribute-group/product-attribute-group-form.html"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product-attribute-group/product-attribute-group-form.js",
+      "PackagePath": "staticwebassets/admin/product-attribute-group/product-attribute-group-form.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product-attribute-group/product-attribute-group-list.html",
+      "PackagePath": "staticwebassets/admin/product-attribute-group/product-attribute-group-list.html"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product-attribute-group/product-attribute-group-list.js",
+      "PackagePath": "staticwebassets/admin/product-attribute-group/product-attribute-group-list.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product-attribute-group/product-attribute-group-service.js",
+      "PackagePath": "staticwebassets/admin/product-attribute-group/product-attribute-group-service.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product-attribute/product-attribute-form.html",
+      "PackagePath": "staticwebassets/admin/product-attribute/product-attribute-form.html"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product-attribute/product-attribute-form.js",
+      "PackagePath": "staticwebassets/admin/product-attribute/product-attribute-form.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product-attribute/product-attribute-list.html",
+      "PackagePath": "staticwebassets/admin/product-attribute/product-attribute-list.html"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product-attribute/product-attribute-list.js",
+      "PackagePath": "staticwebassets/admin/product-attribute/product-attribute-list.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product-attribute/product-attribute-service.js",
+      "PackagePath": "staticwebassets/admin/product-attribute/product-attribute-service.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product-clone/product-clone-form.html",
+      "PackagePath": "staticwebassets/admin/product-clone/product-clone-form.html"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product-clone/product-clone-form.js",
+      "PackagePath": "staticwebassets/admin/product-clone/product-clone-form.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product-clone/product-clone-service.js",
+      "PackagePath": "staticwebassets/admin/product-clone/product-clone-service.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product-option/product-option-form.html",
+      "PackagePath": "staticwebassets/admin/product-option/product-option-form.html"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product-option/product-option-form.js",
+      "PackagePath": "staticwebassets/admin/product-option/product-option-form.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product-option/product-option-list.html",
+      "PackagePath": "staticwebassets/admin/product-option/product-option-list.html"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product-option/product-option-list.js",
+      "PackagePath": "staticwebassets/admin/product-option/product-option-list.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product-option/product-option-service.js",
+      "PackagePath": "staticwebassets/admin/product-option/product-option-service.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product-price/product-price-form.html",
+      "PackagePath": "staticwebassets/admin/product-price/product-price-form.html"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product-price/product-price-form.js",
+      "PackagePath": "staticwebassets/admin/product-price/product-price-form.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product-price/product-price-service.js",
+      "PackagePath": "staticwebassets/admin/product-price/product-price-service.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product-template/product-template-form.html",
+      "PackagePath": "staticwebassets/admin/product-template/product-template-form.html"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product-template/product-template-form.js",
+      "PackagePath": "staticwebassets/admin/product-template/product-template-form.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product-template/product-template-list.html",
+      "PackagePath": "staticwebassets/admin/product-template/product-template-list.html"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product-template/product-template-list.js",
+      "PackagePath": "staticwebassets/admin/product-template/product-template-list.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product-template/product-template-service.js",
+      "PackagePath": "staticwebassets/admin/product-template/product-template-service.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product-widget/product-widget-form.html",
+      "PackagePath": "staticwebassets/admin/product-widget/product-widget-form.html"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product-widget/product-widget-form.js",
+      "PackagePath": "staticwebassets/admin/product-widget/product-widget-form.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product-widget/product-widget-service.js",
+      "PackagePath": "staticwebassets/admin/product-widget/product-widget-service.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product/product-form.html",
+      "PackagePath": "staticwebassets/admin/product/product-form.html"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product/product-form.js",
+      "PackagePath": "staticwebassets/admin/product/product-form.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product/product-list.html",
+      "PackagePath": "staticwebassets/admin/product/product-list.html"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product/product-list.js",
+      "PackagePath": "staticwebassets/admin/product/product-list.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product/product-option-display-directive.html",
+      "PackagePath": "staticwebassets/admin/product/product-option-display-directive.html"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product/product-option-display-directive.js",
+      "PackagePath": "staticwebassets/admin/product/product-option-display-directive.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product/product-selection-directive.html",
+      "PackagePath": "staticwebassets/admin/product/product-selection-directive.html"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product/product-selection-directive.js",
+      "PackagePath": "staticwebassets/admin/product/product-selection-directive.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product/product-service.js",
+      "PackagePath": "staticwebassets/admin/product/product-service.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product/product-translation-form.html",
+      "PackagePath": "staticwebassets/admin/product/product-translation-form.html"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/product/product-translation-form.js",
+      "PackagePath": "staticwebassets/admin/product/product-translation-form.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/spongue-product-widget/spongue-product-widget-form.html",
+      "PackagePath": "staticwebassets/admin/spongue-product-widget/spongue-product-widget-form.html"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/spongue-product-widget/spongue-product-widget-form.js",
+      "PackagePath": "staticwebassets/admin/spongue-product-widget/spongue-product-widget-form.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/admin/spongue-product-widget/spongue-product-widget-service.js",
+      "PackagePath": "staticwebassets/admin/spongue-product-widget/spongue-product-widget-service.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/product-detail.css",
+      "PackagePath": "staticwebassets/product-detail.css"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/product-detail.js",
+      "PackagePath": "staticwebassets/product-detail.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/product-filter.js",
+      "PackagePath": "staticwebassets/product-filter.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Catalog/wwwroot/product-overview.js",
+      "PackagePath": "staticwebassets/product-overview.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Spongue.Module.Catalog.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Spongue.Module.Catalog.props",
+      "PackagePath": "build\\Spongue.Module.Catalog.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Spongue.Module.Catalog.props",
+      "PackagePath": "buildMultiTargeting\\Spongue.Module.Catalog.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Spongue.Module.Catalog.props",
+      "PackagePath": "buildTransitive\\Spongue.Module.Catalog.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

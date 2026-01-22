@@ -1,0 +1,222 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.PublishSingleFile = 
+build_property.PublishSingleFile = 
+build_property.PublishSingleFile = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Spongue.WebHost
+build_property.RootNamespace = Spongue.WebHost
+build_property.ProjectDir = /Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = /Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/CozaStore/Areas/Catalog/Views/Category/CategoryDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL0NvemFTdG9yZS9BcmVhcy9DYXRhbG9nL1ZpZXdzL0NhdGVnb3J5L0NhdGVnb3J5RGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/CozaStore/Areas/Catalog/Views/Product/ProductDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL0NvemFTdG9yZS9BcmVhcy9DYXRhbG9nL1ZpZXdzL1Byb2R1Y3QvUHJvZHVjdERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/CozaStore/Areas/Catalog/Views/Shared/Components/CategoryBreadcrumb/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL0NvemFTdG9yZS9BcmVhcy9DYXRhbG9nL1ZpZXdzL1NoYXJlZC9Db21wb25lbnRzL0NhdGVnb3J5QnJlYWRjcnVtYi9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/CozaStore/Areas/Catalog/Views/Shared/Components/CategoryMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL0NvemFTdG9yZS9BcmVhcy9DYXRhbG9nL1ZpZXdzL1NoYXJlZC9Db21wb25lbnRzL0NhdGVnb3J5TWVudS9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/CozaStore/Areas/Catalog/Views/Shared/Components/CategoryWidget/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL0NvemFTdG9yZS9BcmVhcy9DYXRhbG9nL1ZpZXdzL1NoYXJlZC9Db21wb25lbnRzL0NhdGVnb3J5V2lkZ2V0L0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/CozaStore/Areas/Catalog/Views/Shared/Components/ProductWidget/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL0NvemFTdG9yZS9BcmVhcy9DYXRhbG9nL1ZpZXdzL1NoYXJlZC9Db21wb25lbnRzL1Byb2R1Y3RXaWRnZXQvRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/CozaStore/Areas/Catalog/Views/Shared/Components/SpongueProductWidget/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL0NvemFTdG9yZS9BcmVhcy9DYXRhbG9nL1ZpZXdzL1NoYXJlZC9Db21wb25lbnRzL1Nwb25ndWVQcm9kdWN0V2lkZ2V0L0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/CozaStore/Areas/Catalog/Views/Shared/_ProductThumbnail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL0NvemFTdG9yZS9BcmVhcy9DYXRhbG9nL1ZpZXdzL1NoYXJlZC9fUHJvZHVjdFRodW1ibmFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/CozaStore/Areas/Catalog/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL0NvemFTdG9yZS9BcmVhcy9DYXRhbG9nL1ZpZXdzL19WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/CozaStore/Areas/Catalog/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL0NvemFTdG9yZS9BcmVhcy9DYXRhbG9nL1ZpZXdzL19WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/CozaStore/Areas/Cms/Views/Shared/Components/CarouselWidget/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL0NvemFTdG9yZS9BcmVhcy9DbXMvVmlld3MvU2hhcmVkL0NvbXBvbmVudHMvQ2Fyb3VzZWxXaWRnZXQvRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/CozaStore/Areas/Cms/Views/Shared/Components/Menu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL0NvemFTdG9yZS9BcmVhcy9DbXMvVmlld3MvU2hhcmVkL0NvbXBvbmVudHMvTWVudS9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/CozaStore/Areas/Cms/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL0NvemFTdG9yZS9BcmVhcy9DbXMvVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/CozaStore/Areas/Core/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL0NvemFTdG9yZS9BcmVhcy9Db3JlL1ZpZXdzL0hvbWUvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/CozaStore/Areas/Core/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL0NvemFTdG9yZS9BcmVhcy9Db3JlL1ZpZXdzL19WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/CozaStore/Areas/Core/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL0NvemFTdG9yZS9BcmVhcy9Db3JlL1ZpZXdzL19WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/CozaStore/Areas/ProductRecentlyViewed/Views/Shared/Components/ProductRecentlyViewed/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL0NvemFTdG9yZS9BcmVhcy9Qcm9kdWN0UmVjZW50bHlWaWV3ZWQvVmlld3MvU2hhcmVkL0NvbXBvbmVudHMvUHJvZHVjdFJlY2VudGx5Vmlld2VkL0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/CozaStore/Areas/ProductRecentlyViewed/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL0NvemFTdG9yZS9BcmVhcy9Qcm9kdWN0UmVjZW50bHlWaWV3ZWQvVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/CozaStore/Areas/Search/Views/Shared/Components/SearchForm/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL0NvemFTdG9yZS9BcmVhcy9TZWFyY2gvVmlld3MvU2hhcmVkL0NvbXBvbmVudHMvU2VhcmNoRm9ybS9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/CozaStore/Areas/Search/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL0NvemFTdG9yZS9BcmVhcy9TZWFyY2gvVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/CozaStore/Areas/ShoppingCart/Views/Shared/Components/CartBadge/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL0NvemFTdG9yZS9BcmVhcy9TaG9wcGluZ0NhcnQvVmlld3MvU2hhcmVkL0NvbXBvbmVudHMvQ2FydEJhZGdlL0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/CozaStore/Areas/ShoppingCart/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL0NvemFTdG9yZS9BcmVhcy9TaG9wcGluZ0NhcnQvVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/CozaStore/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL0NvemFTdG9yZS9WaWV3cy9TaGFyZWQvX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/CozaStore/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL0NvemFTdG9yZS9WaWV3cy9TaGFyZWQvX0xvZ2luUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/CozaStore/Views/Shared/_SelectLanguagePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL0NvemFTdG9yZS9WaWV3cy9TaGFyZWQvX1NlbGVjdExhbmd1YWdlUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/CozaStore/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL0NvemFTdG9yZS9WaWV3cy9fVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/SampleTheme/Areas/Catalog/Views/Shared/_ProductThumbnail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL1NhbXBsZVRoZW1lL0FyZWFzL0NhdGFsb2cvVmlld3MvU2hhcmVkL19Qcm9kdWN0VGh1bWJuYWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/SampleTheme/Areas/Catalog/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL1NhbXBsZVRoZW1lL0FyZWFzL0NhdGFsb2cvVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/SampleTheme/Areas/Core/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL1NhbXBsZVRoZW1lL0FyZWFzL0NvcmUvVmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/SampleTheme/Areas/Core/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL1NhbXBsZVRoZW1lL0FyZWFzL0NvcmUvVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/SampleTheme/Areas/Core/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL1NhbXBsZVRoZW1lL0FyZWFzL0NvcmUvVmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/SampleTheme/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL1NhbXBsZVRoZW1lL1ZpZXdzL1NoYXJlZC9fTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/SampleTheme/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL1NhbXBsZVRoZW1lL1ZpZXdzL19WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Themes/SampleTheme/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = VGhlbWVzL1NhbXBsZVRoZW1lL1ZpZXdzL19WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Views/Shared/404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkLzQwNC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Views/Shared/_AccountMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19BY2NvdW50TWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Views/Shared/_AnalyticsScript.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19BbmFseXRpY3NTY3JpcHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Views/Shared/_CookieConsentPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Db29raWVDb25zZW50UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Views/Shared/_SelectLanguagePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19TZWxlY3RMYW5ndWFnZVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.WebHost/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

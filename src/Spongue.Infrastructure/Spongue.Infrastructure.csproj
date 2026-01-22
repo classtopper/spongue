@@ -1,24 +1,39 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
   </PropertyGroup>
-  
+
   <ItemGroup>
     <FrameworkReference Include="Microsoft.AspNetCore.App" />
   </ItemGroup>
 
-  <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.0" />
-    <PackageReference Include="Microsoft.CodeAnalysis.FxCopAnalyzers" Version="2.9.8">
-      <PrivateAssets>all</PrivateAssets>
-      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-    </PackageReference>
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="3.1.0" />
-    <PackageReference Include="Humanizer" Version="2.7.2" />
-    <PackageReference Include="MediatR" Version="7.0.0" />
-    <PackageReference Include="cloudscribe.Web.Pagination" Version="2.1.11" />
-    <PackageReference Include="ncrontab" Version="3.3.1" />
-  </ItemGroup>
+<ItemGroup>
+  <!-- JWT authentication -->
+  <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.4" />
+
+  <!-- Analyzers (FxCop is deprecated, but can still be kept if needed) -->
+  <PackageReference Include="Microsoft.CodeAnalysis.FxCopAnalyzers" Version="3.3.2">
+    <PrivateAssets>all</PrivateAssets>
+  </PackageReference>
+
+  <!-- EF Core relational -->
+  <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="8.0.4" />
+
+  <!-- Humanizer (required for EF Core 8 compatibility) -->
+  <PackageReference Include="Humanizer" Version="2.14.1" />
+
+  <!-- MediatR -->
+  <PackageReference Include="MediatR" Version="12.1.0" />
+
+  <!-- Pagination -->
+  <PackageReference Include="cloudscribe.Web.Pagination" Version="2.1.11" />
+
+  <!-- Cron -->
+  <PackageReference Include="NCrontab" Version="3.3.1" />
+</ItemGroup>
+
 
 </Project>

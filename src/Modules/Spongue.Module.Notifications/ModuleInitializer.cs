@@ -11,7 +11,8 @@ using Spongue.Module.Notifications.Jobs;
 using Spongue.Module.Notifications.Notifiers;
 using Spongue.Module.Notifications.Services;
 using Spongue.Module.SignalR.RealTime;
-
+using NotificationPublisherService =
+    Spongue.Module.Notifications.Services.INotificationPublisher;
 namespace Spongue.Module.Notifications
 {
     public class ModuleInitializer : IModuleInitializer
@@ -25,7 +26,7 @@ namespace Spongue.Module.Notifications
             services.AddSingleton<IRealTimeNotifier, SignalRRealTimeNotifier>();
 
             services.AddTransient<INotificationDistributer, NotificationDistributer>();
-            services.AddTransient<INotificationPublisher, NotificationPublisher>();
+            services.AddTransient<NotificationPublisherService, NotificationPublisher>();
             services.AddTransient<INotificationSubscriptionManager, NotificationSubscriptionManager>();
             services.AddTransient<IUserNotificationManager, UserNotificationManager>();
 

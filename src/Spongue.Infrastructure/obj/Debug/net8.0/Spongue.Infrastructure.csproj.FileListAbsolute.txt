@@ -1,0 +1,13 @@
+/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.Infrastructure/bin/Debug/net8.0/Spongue.Infrastructure.deps.json
+/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.Infrastructure/bin/Debug/net8.0/Spongue.Infrastructure.dll
+/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.Infrastructure/bin/Debug/net8.0/Spongue.Infrastructure.pdb
+/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.Infrastructure/obj/Debug/net8.0/Spongue.Infrastructure.csproj.AssemblyReference.cache
+/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.Infrastructure/obj/Debug/net8.0/Spongue.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.Infrastructure/obj/Debug/net8.0/Spongue.Infrastructure.AssemblyInfoInputs.cache
+/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.Infrastructure/obj/Debug/net8.0/Spongue.Infrastructure.AssemblyInfo.cs
+/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.Infrastructure/obj/Debug/net8.0/Spongue.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.Infrastructure/obj/Debug/net8.0/Spongue.Infrastructure.sourcelink.json
+/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.Infrastructure/obj/Debug/net8.0/Spongue.Infrastructure.dll
+/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.Infrastructure/obj/Debug/net8.0/refint/Spongue.Infrastructure.dll
+/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.Infrastructure/obj/Debug/net8.0/Spongue.Infrastructure.pdb
+/Users/arvindkp/Documents/workspace/github/spongue/src/Spongue.Infrastructure/obj/Debug/net8.0/ref/Spongue.Infrastructure.dll

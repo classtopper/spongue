@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.ProductRecentlyViewed/wwwroot/admin/productrecentlyviewed.module.js",
+      "PackagePath": "staticwebassets/admin/productrecentlyviewed.module.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.ProductRecentlyViewed/wwwroot/admin/recently-viewed-widget/recently-viewed-widget-form.html",
+      "PackagePath": "staticwebassets/admin/recently-viewed-widget/recently-viewed-widget-form.html"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.ProductRecentlyViewed/wwwroot/admin/recently-viewed-widget/recently-viewed-widget-form.js",
+      "PackagePath": "staticwebassets/admin/recently-viewed-widget/recently-viewed-widget-form.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.ProductRecentlyViewed/wwwroot/admin/recently-viewed-widget/recently-viewed-widget-service.js",
+      "PackagePath": "staticwebassets/admin/recently-viewed-widget/recently-viewed-widget-service.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Spongue.Module.ProductRecentlyViewed.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Spongue.Module.ProductRecentlyViewed.props",
+      "PackagePath": "build\\Spongue.Module.ProductRecentlyViewed.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Spongue.Module.ProductRecentlyViewed.props",
+      "PackagePath": "buildMultiTargeting\\Spongue.Module.ProductRecentlyViewed.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Spongue.Module.ProductRecentlyViewed.props",
+      "PackagePath": "buildTransitive\\Spongue.Module.ProductRecentlyViewed.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

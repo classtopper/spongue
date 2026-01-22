@@ -9,17 +9,17 @@ namespace Spongue.Module.SignalR
 {
     public class ModuleInitializer : IModuleInitializer
     {
-        public void ConfigureServices(IServiceCollection serviceCollection)
+        public void ConfigureServices(IServiceCollection services)
         {
-            serviceCollection.AddSignalR();
-            serviceCollection.AddSingleton<IOnlineClientManager, OnlineClientManager>();
+            services.AddSignalR();
+            services.AddSingleton<IOnlineClientManager, OnlineClientManager>();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-            app.UseSignalR(routes =>
+            app.UseEndpoints(endpoints =>
             {
-                routes.MapHub<CommonHub>("/signalr");
+                endpoints.MapHub<CommonHub>("/signalr");
             });
         }
     }

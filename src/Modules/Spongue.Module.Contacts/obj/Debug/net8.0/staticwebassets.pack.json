@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Contacts/wwwroot/admin/contact-area/contact-area-form.html",
+      "PackagePath": "staticwebassets/admin/contact-area/contact-area-form.html"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Contacts/wwwroot/admin/contact-area/contact-area-form.js",
+      "PackagePath": "staticwebassets/admin/contact-area/contact-area-form.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Contacts/wwwroot/admin/contact-area/contact-area-list.html",
+      "PackagePath": "staticwebassets/admin/contact-area/contact-area-list.html"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Contacts/wwwroot/admin/contact-area/contact-area-list.js",
+      "PackagePath": "staticwebassets/admin/contact-area/contact-area-list.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Contacts/wwwroot/admin/contact-area/contact-area-service.js",
+      "PackagePath": "staticwebassets/admin/contact-area/contact-area-service.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Contacts/wwwroot/admin/contact-area/contact-area-translation-form.html",
+      "PackagePath": "staticwebassets/admin/contact-area/contact-area-translation-form.html"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Contacts/wwwroot/admin/contact-area/contact-area-translation-form.js",
+      "PackagePath": "staticwebassets/admin/contact-area/contact-area-translation-form.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Contacts/wwwroot/admin/contacts.module.js",
+      "PackagePath": "staticwebassets/admin/contacts.module.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Contacts/wwwroot/admin/contacts/contact-list.html",
+      "PackagePath": "staticwebassets/admin/contacts/contact-list.html"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Contacts/wwwroot/admin/contacts/contact-list.js",
+      "PackagePath": "staticwebassets/admin/contacts/contact-list.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Contacts/wwwroot/admin/contacts/contact-service.js",
+      "PackagePath": "staticwebassets/admin/contacts/contact-service.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Contacts/wwwroot/admin/contacts/contact.html",
+      "PackagePath": "staticwebassets/admin/contacts/contact.html"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Contacts/wwwroot/admin/contacts/contact.js",
+      "PackagePath": "staticwebassets/admin/contacts/contact.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Contacts/wwwroot/init-google-map.js",
+      "PackagePath": "staticwebassets/init-google-map.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Spongue.Module.Contacts.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Spongue.Module.Contacts.props",
+      "PackagePath": "build\\Spongue.Module.Contacts.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Spongue.Module.Contacts.props",
+      "PackagePath": "buildMultiTargeting\\Spongue.Module.Contacts.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Spongue.Module.Contacts.props",
+      "PackagePath": "buildTransitive\\Spongue.Module.Contacts.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

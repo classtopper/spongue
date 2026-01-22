@@ -1,7 +1,9 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
     <EnableDefaultContentItems>false</EnableDefaultContentItems>
     <MvcRazorCompileOnPublish>false</MvcRazorCompileOnPublish>
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
@@ -63,27 +65,50 @@
     <ProjectReference Include="..\Modules\Spongue.Module.WishList\Spongue.Module.WishList.csproj" />
     <ProjectReference Include="..\Spongue.Infrastructure\Spongue.Infrastructure.csproj" />
   </ItemGroup>
-  <ItemGroup>
-    <PackageReference Include="IdentityServer4.AspNetIdentity" Version="3.0.1" />
-    <PackageReference Include="BuildBundlerMinifier" Version="3.0.415" />
-    <PackageReference Include="Microsoft.AspNetCore.Antiforgery" Version="2.2.0" />
-    <PackageReference Include="Microsoft.AspNetCore.Authentication.Facebook" Version="3.1.0" />
-    <PackageReference Include="Microsoft.AspNetCore.Authentication.Google" Version="3.1.0" />
-    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.1.0" />
-    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.0" />
-    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="3.1.0" />
-    <PackageReference Include="Microsoft.CodeAnalysis.FxCopAnalyzers" Version="2.9.8">
-      <PrivateAssets>all</PrivateAssets>
-      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
-    </PackageReference>
-    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.0" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.0" />
-    <PackageReference Include="Serilog.Extensions.Logging" Version="3.0.1" />
-    <PackageReference Include="Serilog.Settings.Configuration" Version="3.1.0" />
-    <PackageReference Include="Serilog.Sinks.RollingFile" Version="3.3.1-dev-00767" />
-    <PackageReference Include="MediatR" Version="7.0.0" />
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.0.0-rc4" />
-    <PackageReference Include="MySql.Data.EntityFrameworkCore" Version="8.0.20" />
-  </ItemGroup>
-  
+ 
+ <ItemGroup>
+  <!-- IdentityServer (keep temporarily) -->
+  <PackageReference Include="IdentityServer4.AspNetIdentity" Version="3.0.1" />
+
+  <!-- Bundler/Minifier -->
+  <PackageReference Include="BuildBundlerMinifier" Version="3.0.415" />
+
+  <!-- ASP.NET Core packages (updated for .NET 8) -->
+  <PackageReference Include="Microsoft.AspNetCore.Authentication.Facebook" Version="8.0.0" />
+  <PackageReference Include="Microsoft.AspNetCore.Authentication.Google" Version="8.0.0" />
+  <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="8.0.0" />
+  <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="8.0.0" />
+  <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="8.0.0" />
+
+  <!-- Roslyn / Analyzers -->
+  <PackageReference Include="Microsoft.CodeAnalysis.FxCopAnalyzers" Version="3.3.2">
+    <PrivateAssets>all</PrivateAssets>
+    <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+  </PackageReference>
+
+  <!-- EF Core SQL Server -->
+  <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.4" />
+  <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.4" />
+  <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.4" />
+  <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="8.0.4" />
+
+  <!-- Serilog -->
+  <PackageReference Include="Serilog.AspNetCore" Version="8.0.0" />
+  <PackageReference Include="Serilog.Settings.Configuration" Version="8.0.0" />
+  <PackageReference Include="Serilog.Sinks.File" Version="5.0.0" />
+  <PackageReference Include="Serilog.Sinks.Console" Version="5.0.0" />
+  <PackageReference Include="Serilog.Enrichers.Environment" Version="2.3.0" />
+  <PackageReference Include="Serilog.Enrichers.Process" Version="2.0.2" />
+  <PackageReference Include="Serilog.Enrichers.Thread" Version="3.1.0" />
+
+  <!-- MediatR -->
+  <PackageReference Include="MediatR" Version="12.1.0" />
+
+  <!-- Swashbuckle / Swagger -->
+  <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.0" />
+
+  <!-- Optional MySQL provider -->
+  <PackageReference Include="MySql.Data.EntityFrameworkCore" Version="8.0.22" />
+</ItemGroup>
+
 </Project>

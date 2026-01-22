@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Comments/wwwroot/admin/comment/comment-list.html",
+      "PackagePath": "staticwebassets/admin/comment/comment-list.html"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Comments/wwwroot/admin/comment/comment-list.js",
+      "PackagePath": "staticwebassets/admin/comment/comment-list.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Comments/wwwroot/admin/comment/comment-service.js",
+      "PackagePath": "staticwebassets/admin/comment/comment-service.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Comments/wwwroot/admin/comments.module.js",
+      "PackagePath": "staticwebassets/admin/comments.module.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Comments/wwwroot/comment-service.js",
+      "PackagePath": "staticwebassets/comment-service.js"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Comments/wwwroot/comment.css",
+      "PackagePath": "staticwebassets/comment.css"
+    },
+    {
+      "Id": "/Users/arvindkp/Documents/workspace/github/spongue/src/Modules/Spongue.Module.Comments/wwwroot/comment.js",
+      "PackagePath": "staticwebassets/comment.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Spongue.Module.Comments.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Spongue.Module.Comments.props",
+      "PackagePath": "build\\Spongue.Module.Comments.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Spongue.Module.Comments.props",
+      "PackagePath": "buildMultiTargeting\\Spongue.Module.Comments.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Spongue.Module.Comments.props",
+      "PackagePath": "buildTransitive\\Spongue.Module.Comments.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
