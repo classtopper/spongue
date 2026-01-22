@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../build/Spongue.Module.Cms.props" />
-</Project>

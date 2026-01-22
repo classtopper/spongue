@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/Spongue.Module.ActivityLog.props" />
-</Project>

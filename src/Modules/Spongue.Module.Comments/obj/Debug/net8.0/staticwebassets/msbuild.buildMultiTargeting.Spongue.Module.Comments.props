@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../build/Spongue.Module.Comments.props" />
-</Project>

@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../build/Spongue.Module.HangfireJobs.props" />
-</Project>

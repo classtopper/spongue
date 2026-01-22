@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../build/Spongue.Module.Inventory.props" />
-</Project>
