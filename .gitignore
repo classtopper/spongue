@@ -1,58 +1,11 @@
-﻿# =========================
-# .NET / Visual Studio
-# =========================
+﻿# .NET build output
 bin/
 obj/
-[Bb]in/
-[Oo]bj/
 
-*.user
-*.suo
-*.userosscache
-*.sln.docstates
-
-# Rider / VS Code
+# Rider / VS / VS Code
+.vs/
 .idea/
 .vscode/
 
-# ASP.NET Core
-appsettings.*.json
-!appsettings.json
-
-# =========================
-# Logs
-# =========================
-*.log
-logs/
-LogFiles/
-
-# =========================
-# Node / Frontend
-# =========================
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# =========================
-# OS files
-# =========================
+# OS
 .DS_Store
-Thumbs.db
-
-# =========================
-# Build artifacts
-# =========================
-publish/
-dist/
-
-# =========================
-# EF / tooling
-# =========================
-*.db
-*.sqlite
-
-# =========================
-# Secrets
-# =========================
-secrets.json
